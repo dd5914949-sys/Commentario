@@ -136,6 +136,26 @@ article.post {
   margin-bottom: 2.5rem;
   overflow: hidden;
   transition: transform 0.35s ease, box-shadow 0.35s ease;
+  position: relative;
+  cursor: pointer;
+}
+
+/* Stretched link: title <a> covers the whole card */
+article.post .title h2 a::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 1;
+}
+
+/* Tags, buttons, and image link stay above the overlay and remain individually clickable */
+article.post footer,
+article.post .image.featured {
+  position: relative;
+  z-index: 2;
 }
 
 article.post:hover {
