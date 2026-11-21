@@ -292,3 +292,4 @@ Local copies of third-party images. Check each source page for its licence and c
 - `/images/hotlinked/2efba9-ffb1d160fbe04e2fb523505d34852b49-mv2.webp`  <-  https://static.wixstatic.com/media/2efba9_ffb1d160fbe04e2fb523505d34852b49~mv2.png
 - `/images/hotlinked/2efba9-ffd34e1d873b42079f4e8cc1a4e2dd20-mv2.webp`  <-  https://static.wixstatic.com/media/2efba9_ffd34e1d873b42079f4e8cc1a4e2dd20~mv2.png
 - `/images/hotlinked/2efba9-ffffe2abd1014fa38988cb59d0fb5f3f-mv2.webp`  <-  https://static.wixstatic.com/media/2efba9_ffffe2abd1014fa38988cb59d0fb5f3f~mv2.png
+- `/images/hotlinked/img-5393-640.webp`  <-  https://dataphys.org/list/images/uploads/2015/01/IMG_5393_640.jpg
